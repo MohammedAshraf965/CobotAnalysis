@@ -1,2 +1,2 @@
 # CobotAnalysis
-A Machine Learning project to detect faults, predict behavior, and optimize operations of cobots
+A Machine Learning project to detect faults, predict behavior of cobots for industrial applications
